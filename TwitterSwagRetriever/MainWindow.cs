@@ -25,15 +25,11 @@ namespace TwitterSwagRetriever
 	public partial class MainWindow : Form
 	{
 		//George's test data, dont forget to take out
-		//private const string CustomerKey = "";
-		//private const string ConsumerSecret = "";
-		//private const string AccessToken = "";
-		//private const string AccessTokenSecret = "";
-		private const string Description = "1";
-		private const string CustomerKey = "2KS3iTsbSUaV7Ls2doNNeBDEj";
-		private const string ConsumerSecret = "MW6GuGVy2Odjn0ycsD8WIfy6TD7tkTeViANsFmDh9fUZvjKCyE";
-		private const string AccessToken = "818045890090901504-pD0nJPP77FVrxOoDiqZOeoEnHiRex8E";
-		private const string AccessTokenSecret = "LuNFhE5FbT3vyC2GW77hnuqbcQLKJVpcVy8bhVulVsL7i";
+		private const string Description = "";
+		private const string CustomerKey = "";
+		private const string ConsumerSecret = "";
+		private const string AccessToken = "";
+		private const string AccessTokenSecret = "";
 
 		protected string SearchString
 		{
